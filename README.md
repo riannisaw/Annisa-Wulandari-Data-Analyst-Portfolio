@@ -9,27 +9,28 @@ During my academic and practical experiences, I worked with reporting, documenta
 Outside of formal work, I continue to learn and practice data analysis tools while applying them to real projects. I’m comfortable working independently or in a team, and I’m motivated by the process of turning information into insights that support better decisions and measurable outcomes.
 
 ## Table of Contents
-### [About] 
-### Portfolio Projects
-#### SQL Projects
-- **Uncleaned Laptop Analysis**
-  - Tools  : PostgreSQL, VS Code
-  - Focus  : Data cleaning, EDA, correlation analysis
-  - Repo   : [View Project](https://github.com/riannisaw/Uncleaned-Laptop-Data/tree/main)
-- **Shopee Rating**
-- **Ini Akan Ada**
-### Excel Projects
-- **Football Analysis**
-  - Tools  : Excel
-  - Techniques: Data Validation, Pivot Table
-  - Repo  : View Project
-- **Yang kemarin sempat dikerjain but i forgot the project**
-### Tableau Dashboards
-- **Laptop Market Overview**
-  - Tools  : Tableau
-  - Focus  : Data Visualisation
-  - Repo   : [View Project](https://github.com/riannisaw/Laptop-Market-Dashboard)
-- **Shopee rating**
+- ### [About](https://github.com/riannisaw/Annisa-Wulandari-Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#about-me)
+
+- ### [Portfolio Projects](https://github.com/riannisaw/Annisa-Wulandari-Data-Analyst-Portfolio/edit/main/README.md#portfolio-projects)
+- #### SQL Projects
+  - **[Uncleaned Laptop Analysis](https://github.com/riannisaw/Uncleaned-Laptop-Data/tree/main)**
+    - Tools  : PostgreSQL, VS Code
+    - Focus  : Data cleaning, EDA, correlation analysis
+    - Repo   : [View Project](https://github.com/riannisaw/Uncleaned-Laptop-Data/tree/main)
+  - **Shopee Rating**
+  - **Ini Akan Ada**
+- ### Excel Projects
+  - **Football Analysis**
+    - Tools  : Excel
+    - Techniques: Data Validation, Pivot Table
+    - Repo  : View Project
+  - **Yang kemarin sempat dikerjain but i forgot the project**
+- ### Tableau Dashboards
+  - **[Laptop Market Overview](https://github.com/riannisaw/Laptop-Market-Dashboard)**
+    - Tools  : Tableau
+    - Focus  : Data Visualisation
+    - Repo   : [View Project](https://github.com/riannisaw/Laptop-Market-Dashboard)
+  - **Shopee rating**
 
 ## Education
 Graduate from Universitas Sebelas Maret majoring in Communication Science 
