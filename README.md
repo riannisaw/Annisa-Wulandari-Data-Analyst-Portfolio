@@ -15,7 +15,7 @@ Outside of formal work, I continue to learn and practice data analysis tools whi
 - **Uncleaned Laptop Analysis**
   - Tools  : PostgreSQL, VS Code
   - Focus  : Data cleaning, EDA, correlation analysis
-  - Repo   : View Project
+  - Repo   : [View Project](https://github.com/riannisaw/Uncleaned-Laptop-Data/tree/main)
 - **Shopee Rating**
 - **Ini Akan Ada**
 ### Excel Projects
@@ -26,6 +26,9 @@ Outside of formal work, I continue to learn and practice data analysis tools whi
 - **Yang kemarin sempat dikerjain but i forgot the project**
 ### Tableau Dashboards
 - **Laptop Market Overview**
+  - Tools  : Tableau
+  - Focus  : Data Visualisation
+  - Repo   : [View Project](https://github.com/riannisaw/Laptop-Market-Dashboard)
 - **Shopee rating**
 
 ## Education
